@@ -1,6 +1,6 @@
 import { QrClient } from 'qr-code-generator-sdk'
 
-let new_QR = new QrClient('p3BHBDtc_rd3V2STqgfc7eeGM66W29tofZjc3uttL78p7lWDlH7B_X2TR0LPbicN')
+let new_QR = new QrClient('your_api_key')
 
 
 const urltxt = document.getElementById('url').value;
