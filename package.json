@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "qr-code-generator-sdk": "^1.0.5"
+  }
+}
