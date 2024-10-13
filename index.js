@@ -1,4 +1,5 @@
 import { QrClient } from 'qr-code-generator-sdk'
+// for the qr client package go to npmjs.com and search for qr-code-generator-sdk and u will get the webpage and how to install
 
 let new_QR = new QrClient('your_api_key')
 
